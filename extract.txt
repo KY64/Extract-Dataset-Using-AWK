@@ -1,0 +1,8 @@
+nama_pedagang                       | 	 alamat_lokasi_dagang
+MASRI IMAI                          | 	 JL. TAWES
+RAKIM                               | 	 JL. TAWES
+ABUNG                               | 	 JL. TAWES
+.
+.
+.
+.
