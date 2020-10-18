@@ -1,0 +1,8 @@
+nama_pedagang                        	 alamat_lokasi_dagang                    kontak
+MASRI IMAI                            	 JL. TAWES                             	 +628707xxxxxx
+RAKIM                                 	 JL. TAWES                             	 +628875xxxxxx
+ABUNG                                 	 JL. TAWES                             	 +628306xxxxxx
+.
+.
+.
+.
